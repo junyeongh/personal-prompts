@@ -1,0 +1,1 @@
+- Analyze the current project's knowledge base, then recommend specific content from our conversation that should be added to enhance the knowledge base. Then, explain why each addition would be valuable.
